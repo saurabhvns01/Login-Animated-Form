@@ -1,6 +1,6 @@
 # Login Animated Form
 
-![Project Image](https://ibb.co/1Xb7FqJ)
+![Project Image](https://i.ibb.co/mySbfqF/Screenshot-1.png)
 
 > A stylish and interactive login form for your website or web application.
 
