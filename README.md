@@ -1,6 +1,6 @@
 # Login Animated Form
 
-![Project Image](project-image-url)
+![Project Image](https://ibb.co/1Xb7FqJ)
 
 > A stylish and interactive login form for your website or web application.
 
@@ -12,9 +12,7 @@
 - [Demo](#demo)
 - [Features](#features)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ---
 
@@ -26,9 +24,7 @@ The "Login Animated Form" is a user-friendly and visually appealing login form d
 
 ## Demo
 
-You can see a live demo of the "Login Animated Form" [here](demo-url).
-
-![Demo GIF](demo-gif-url)
+You can see a live demo of the "Login Animated Form" [here](https://saurabhvns01.github.io/Login-Animated-Form/).
 
 ---
 
@@ -37,8 +33,6 @@ You can see a live demo of the "Login Animated Form" [here](demo-url).
 - Beautifully designed and animated login form.
 - Smooth transitions and interactive elements.
 - Easily customizable to fit your website's branding.
-- Responsive design for various screen sizes.
-- Enhanced user experience during the login process.
 
 ---
 
